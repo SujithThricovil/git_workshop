@@ -1,2 +1,3 @@
 # sample project  
-We are sct ians in cet for git w/s
+We are sct ians in cet for git w/s  
+hurray !!
